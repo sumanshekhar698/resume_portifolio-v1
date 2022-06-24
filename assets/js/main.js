@@ -65,7 +65,7 @@ const iconTheme = 'bxs-sun'
 const selectedTheme = localStorage.getItem('selected-theme')
 const selectedIcon = localStorage.getItem('selected-icon')
 
-{/* <i class='bx bxs-sun bx-tada' style='color:#eca40b'  ></i> */}
+/* <i class='bx bxs-sun bx-tada' style='color:#eca40b'  ></i> */
 // We obtain the current theme that the interface has by validating the dark-theme class
 const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'dark' : 'light'
 const getCurrentIcon = () => themeButton.classList.contains(iconTheme) ? 'bxs-moon' : 'bxs-sun'
