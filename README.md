@@ -14,9 +14,10 @@
   The second iteration of 
   <a href="https://www.sumanshekhar.com" target="_blank">sumanshekhar.com</a> 
   Its mine personal portfolio with dark mode support and a resume download option. 
-  Built with HTML, CSS and JS and hosted in <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Built with HTML, CSS and JS and hosted in <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
   <br>
-  Inspired from BedimCode
-  <a href=" https://www.youtube.com/watch?v=oYjseP_Qhv4" target="_blank">Bedimcode Responsive Resume Website</a>
+  Inspired from
+  <a href= "https://www.youtube.com/watch?v=oYjseP_Qhv4" target="_blank">Bedimcode</a>
 </p>
 
+![screenshot](https://raw.githubusercontent.com/sumanshekhar698/main_resume_portifolio/master/assets/img/resume_gen.jpg)
