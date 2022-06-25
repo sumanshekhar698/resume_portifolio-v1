@@ -20,4 +20,8 @@
   <a href= "https://www.youtube.com/watch?v=oYjseP_Qhv4" target="_blank">Bedimcode</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/sumanshekhar698/main_resume_portifolio/master/assets/img/resume_gen.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumanshekhar698/main_resume_portifolio/master/assets/img/resume_gen.jpg" alt="Website ScreenShot"/>
+</p>
+
+<!-- ![screenshot](https://raw.githubusercontent.com/sumanshekhar698/main_resume_portifolio/master/assets/img/resume_gen.jpg) -->
