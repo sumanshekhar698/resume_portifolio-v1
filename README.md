@@ -12,7 +12,7 @@
 
 <p align="center">
   The second iteration of 
-  <a href="[https://www.portifolioo-v1.netlify.app](https://portifolioo-v1.netlify.app/)" target="_blank">sumanshekhar.com</a> 
+  <a href="https://portifolioo-v1.netlify.app/" target="_blank">sumanshekhar.com</a> 
   It's my portfolio with dark mode support and a resume download option. 
   Built with HTML, CSS and JS and hosted in <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
   <br>
